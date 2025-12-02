@@ -1,3 +1,3 @@
 # first-Project
 Hello
-Whats up?Ni...
+Whats up?
